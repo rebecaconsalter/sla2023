@@ -7,9 +7,9 @@
     <title></title>
 </head>
 <body>
-    <h1> LISTA DE ATIVIDADES NA SEMANA</h1>
+    <h1> APRENDA A FAZER SUAS UNHAS EM CASA </h1>
     
-    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 01/03</p>
+    <p> FIQUE COM SUAS UNHAS IGUAL A DE SALÃO NO CONFORTO DA SUA CASA </p>
     
     <img src="bara01.png" alt="logo do barão">
     
