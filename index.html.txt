@@ -11,7 +11,7 @@
     
     <p> FIQUE COM SUAS UNHAS IGUAL A DE SALÃO NO CONFORTO DA SUA CASA </p>
     
-    <img src="bara01.png" alt="logo do barão">
+    <img src="IMG.089.jpg" alt="logo do barão">
     
     
         <li>Segunda-feira</li>
