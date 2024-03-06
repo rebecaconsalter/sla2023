@@ -14,8 +14,8 @@
     <img src="IMG_0869.jpeg" imagem ilustrativa de unha ">
     
     
-        <li>Segunda-feira</li>
-        <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
+        <li>Como tirar a cutícula</li>
+        <a href="passo.html" target="_blank">Passo a passo de como tirar a cutícula</a>
     
         <li>Terça-feira</li>
         <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
