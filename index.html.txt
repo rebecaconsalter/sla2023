@@ -17,7 +17,7 @@
         <li>Como tirar a cutícula</li>
         <a href="unha.html" target="_blank">Passo a passo de como tirar a cutícula</a>
     
-        <li>Terça-feira</li>
+        <li>Agora pegue seu esmalte da sua preferencia e passe na sua unha que foi feita a retirada da cutícula. Passe o esmalte em todos os cantos da sua unha, e depois com removedor de esmalte retire o que ficou para fora de sua unha.</li>
         <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
     
         <li>Quarta-feira</li>
