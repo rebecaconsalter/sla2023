@@ -15,7 +15,7 @@
     
     
         <li>Como tirar a cutícula</li>
-        <a href="passo.html" target="_blank">Passo a passo de como tirar a cutícula</a>
+        <a href="unha.html" target="_blank">Passo a passo de como tirar a cutícula</a>
     
         <li>Terça-feira</li>
         <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
